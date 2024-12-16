@@ -8,26 +8,23 @@ Visual components and Python
 
 ## Theory
 
-![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
+![image](https://github.com/user-attachments/assets/ce25c37f-db6a-47bf-8a4a-f9dc2652abe8)
 
 
 ## Procedure :
 
-![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
+![image](https://github.com/user-attachments/assets/c366db63-f1bc-49f0-a51e-56971098589b)
 
 
 ## Experiment:
 
-![P7](https://github.com/21005688/Open-Jacson-Networks/assets/94747031/9e252a77-df6b-410c-b22b-2db70a586d97)
-![P8](https://github.com/21005688/Open-Jacson-Networks/assets/94747031/323ed3a3-45ed-4559-9012-23d73369af6d)
+![image](https://github.com/user-attachments/assets/435a8e15-3c16-4cc7-8bc7-1621b7e79f1a)
+
+![image](https://github.com/user-attachments/assets/6c5475a8-32e8-4d54-9db6-a9642596043a)
 
 
 
 ## Program
-```
-DEVELOPED BY : DEEPIKA.J
-REGISTER NO : 212221230016
-
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -65,13 +62,10 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-```
-
-
 
 
 ## Output
-![P6](https://github.com/21005688/Open-Jacson-Networks/assets/94747031/d61c45cf-04e3-4052-aeb4-ebb3cbe9ac2d)
+![image](https://github.com/user-attachments/assets/0823a691-cb11-4803-bf63-5de241fa9bb7)
 
 
 ## Result
